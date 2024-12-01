@@ -50,5 +50,6 @@ export default defineConfig(
     },
     base: "/",
     lastUpdated: true,
+    ignoreDeadLinks: true,
   })
 );
