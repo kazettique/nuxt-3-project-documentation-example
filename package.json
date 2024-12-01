@@ -1,0 +1,12 @@
+{
+  "name": "nuxt-3-project-documentation-example",
+  "version": "1.0.0",
+  "description": "## Run Documentation at Local",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
