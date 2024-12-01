@@ -7,10 +7,7 @@ export default defineConfig(
     title: "My Nuxt Project",
     description: "Frontend Development Guide",
     themeConfig: {
-      nav: [
-        { text: "Quickstart", link: "/" },
-        { text: "Link & Docs", link: "/links" },
-      ],
+      nav: [{ text: "Quickstart", link: "/" }],
       sidebar: {
         "/": [
           {
@@ -41,7 +38,6 @@ export default defineConfig(
                 ],
               },
               { text: "Configurations", link: "/configurations" },
-              { text: "Link & Docs", link: "/links" },
               { text: "Troubleshooting", link: "/troubleshooting" },
             ],
           },
