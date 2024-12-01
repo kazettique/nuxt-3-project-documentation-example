@@ -48,7 +48,7 @@ export default defineConfig(
       },
       copyRight: "Copyright © 2024",
     },
-    base: "/",
+    base: "/nuxt-3-project-documentation-example/",
     lastUpdated: true,
     ignoreDeadLinks: true,
   })
