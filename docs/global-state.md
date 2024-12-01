@@ -24,7 +24,7 @@ Pinia stores shared data between pages and UI components, eliminating the need f
 
 To understand how responsibilities are divided between global state and global events, see [here](./global-state.md).
 
-## Store 範例
+## Store Example
 
 Pinia Store can be written in two ways: [Options Store](https://pinia.vuejs.org/core-concepts/#Option-Stores) and [Setup Store](https://pinia.vuejs.org/core-concepts/#Setup-Stores). Let's look at an example using the Setup Store approach:
 
